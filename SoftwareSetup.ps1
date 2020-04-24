@@ -98,6 +98,7 @@ choco install vscode-vsliveshare
 choco install vscode-gitlens
 choco install vscode-chrome-debug
 choco install vscode-codespellchecker
+choco install vscode-powershell
 
 # Chat tools
 choco install -y discord
@@ -114,6 +115,9 @@ choco install -y maven
 choco install -y gradle
 choco install -y nodejs
 choco install -y nvm
+choco install -y ngrok
+choco install -y nssm
+choco install -y mingw
 choco install -y python
 
 # Global node modules
