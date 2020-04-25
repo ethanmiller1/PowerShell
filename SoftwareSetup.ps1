@@ -48,6 +48,7 @@ choco install -y itunes
 choco install -y mp3tag
 choco install -y google-play-music-manager
 choco install -y audacity
+choco install -y audacity-lame
 choco install -y audacity-ffmpeg
 choco install -y gpmdp
 
