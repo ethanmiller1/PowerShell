@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <groups>
+    <group name="Graphic Design" expanded="true">
+      <folder>A:\Users\Ethan\OneDrive\Projects Folder\Graphic Design\nexusfont\fonts</folder>
+    </group>
+    <group name="Sample Folder Group" expanded="true"/>
+  </groups>
+  <sets>
+    <set name="Curly">
+      <font>C:\WINDOWS\Fonts\BAUHS93.TTF</font>
+      <font>C:\WINDOWS\Fonts\BeastMode-Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\BeastMode-Disco.ttf</font>
+      <font>C:\WINDOWS\Fonts\BeastMode.ttf</font>
+      <font>C:\WINDOWS\Fonts\DiscoDiva.ttf</font>
+      <font>C:\WINDOWS\Fonts\DJB Get Digital.ttf</font>
+      <font>C:\WINDOWS\Fonts\FORTE.TTF</font>
+      <font>C:\WINDOWS\Fonts\GILLIGAN.TTF</font>
+      <font>C:\WINDOWS\Fonts\LoveMoneyParty.ttf</font>
+      <font>C:\WINDOWS\Fonts\LCALLIG.TTF</font>
+      <font>C:\WINDOWS\Fonts\LHANDW.TTF</font>
+      <font>C:\WINDOWS\Fonts\MAGNETOB.TTF</font>
+      <font>C:\WINDOWS\Fonts\Neon.ttf</font>
+      <font>C:\WINDOWS\Fonts\phantom regular.otf</font>
+      <font>C:\WINDOWS\Fonts\phantom bold.otf</font>
+      <font>C:\WINDOWS\Fonts\SCRIPTBL.TTF</font>
+      <font>C:\WINDOWS\Fonts\Seized Future.ttf</font>
+      <font>C:\WINDOWS\Fonts\SHOWG.TTF</font>
+      <font>C:\WINDOWS\Fonts\solgas.ttf</font>
+      <font>C:\WINDOWS\Fonts\SNAP____.TTF</font>
+      <font>C:\WINDOWS\Fonts\The Quick.ttf</font>
+      <font>C:\WINDOWS\Fonts\Verso.ttf</font>
+      <font>C:\WINDOWS\Fonts\waltograph42.otf</font>
+      <font>C:\WINDOWS\Fonts\waltographUI.ttf</font>
+      <font>C:\WINDOWS\Fonts\MontserratAlternates-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\blazium.ttf</font>
+      <font>C:\WINDOWS\Fonts\EasterFunbyTom.ttf</font>
+      <font>C:\WINDOWS\Fonts\maiden.ttf</font>
+      <font>C:\WINDOWS\Fonts\Melody Maker.ttf</font>
+    </set>
+    <set name="Digital">
+      <font>C:\WINDOWS\Fonts\AGENCYR.TTF</font>
+      <font>C:\WINDOWS\Fonts\AGENCYB.TTF</font>
+      <font>C:\WINDOWS\Fonts\AndromedaTV.TTF</font>
+      <font>C:\WINDOWS\Fonts\Digital-Serial-Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\ethnocentric rg.ttf</font>
+      <font>C:\WINDOWS\Fonts\Geometry_Soft_Pro-Bold_N.otf</font>
+      <font>C:\WINDOWS\Fonts\modithorson3d.ttf</font>
+      <font>C:\WINDOWS\Fonts\modithorson.ttf</font>
+      <font>C:\WINDOWS\Fonts\Monitorica-Bd.ttf</font>
+      <font>C:\WINDOWS\Fonts\Neuropol Nova Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\Neuropol X Lite.ttf</font>
+      <font>C:\WINDOWS\Fonts\neuropol x rg.ttf</font>
+      <font>C:\WINDOWS\Fonts\Per4m.ttf</font>
+      <font>C:\WINDOWS\Fonts\maiden.ttf</font>
+      <font>C:\WINDOWS\Fonts\cubic.ttf</font>
+      <font>C:\WINDOWS\Fonts\ROBOTECH GP.ttf</font>
+      <font>C:\WINDOWS\Fonts\blazium.ttf</font>
+      <font>C:\WINDOWS\Fonts\solgas.ttf</font>
+      <font>C:\WINDOWS\Fonts\data-latin.ttf</font>
+      <font>C:\WINDOWS\Fonts\OldGameFatty.ttf</font>
+      <font>C:\WINDOWS\Fonts\Neon.ttf</font>
+      <font>C:\WINDOWS\Fonts\Gputeks-Regular.ttf</font>
+    </set>
+    <set name="Dirty">
+      <font>C:\WINDOWS\Fonts\Anxiety.ttf</font>
+      <font>C:\WINDOWS\Fonts\BRADHITC.TTF</font>
+      <font>C:\WINDOWS\Fonts\CHILLER.TTF</font>
+      <font>C:\WINDOWS\Fonts\CRUSHED c PERSONAL USE ONLY.ttf</font>
+      <font>C:\WINDOWS\Fonts\Forbidden Land.ttf</font>
+      <font>C:\WINDOWS\Fonts\GILSANUB.TTF</font>
+      <font>C:\WINDOWS\Fonts\HeadlinerNo.45 DEMO.ttf</font>
+      <font>C:\WINDOWS\Fonts\Jazzy Caveman.ttf</font>
+      <font>C:\WINDOWS\Fonts\Justice.ttf</font>
+      <font>C:\WINDOWS\Fonts\LithosPro-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\MISTRAL.TTF</font>
+      <font>C:\WINDOWS\Fonts\Northwood High.ttf</font>
+      <font>C:\WINDOWS\Fonts\OLDENGL.TTF</font>
+      <font>C:\WINDOWS\Fonts\PEIXE.ttf</font>
+      <font>C:\WINDOWS\Fonts\PRISTINA.TTF</font>
+      <font>C:\WINDOWS\Fonts\RAVIE.TTF</font>
+      <font>C:\WINDOWS\Fonts\RosewoodStd-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\Stroke.ttf</font>
+      <font>C:\WINDOWS\Fonts\True Lies.ttf</font>
+      <font>C:\WINDOWS\Fonts\Turtles.otf</font>
+      <font>C:\WINDOWS\Fonts\Urban Jungle.ttf</font>
+      <font>C:\WINDOWS\Fonts\VINERITC.TTF</font>
+      <font>C:\WINDOWS\Fonts\Blade 2.ttf</font>
+      <font>C:\WINDOWS\Fonts\Shadows of Security.ttf</font>
+      <font>C:\WINDOWS\Fonts\HBM Mixit (personal use only).ttf</font>
+      <font>C:\WINDOWS\Fonts\Eclipse Demo.ttf</font>
+      <font>C:\WINDOWS\Fonts\Coalition_v2..ttf</font>
+      <font>C:\WINDOWS\Fonts\CodePredators-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\appleberry.ttf</font>
+      <font>C:\WINDOWS\Fonts\Right Chalk.ttf</font>
+      <font>C:\WINDOWS\Fonts\PWChalk.ttf</font>
+      <font>C:\WINDOWS\Fonts\DJB Chalk It Up.ttf</font>
+      <font>C:\WINDOWS\Fonts\erasdust.ttf</font>
+      <font>C:\WINDOWS\Fonts\Road_Rage.otf</font>
+      <font>C:\WINDOWS\Fonts\Flat Earth Scribe.ttf</font>
+      <font>C:\WINDOWS\Fonts\Flux Architect Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\blazium.ttf</font>
+      <font>C:\WINDOWS\Fonts\Cheveuxdange.ttf</font>
+      <font>C:\WINDOWS\Fonts\go around the books.ttf</font>
+      <font>C:\WINDOWS\Fonts\Scribble Wire.ttf</font>
+      <font>C:\WINDOWS\Fonts\Mechanization.ttf</font>
+      <font>C:\WINDOWS\Fonts\Rainy Day VandalDEMO.otf</font>
+      <font>C:\WINDOWS\Fonts\TragicVisionDEMO-KCFONTS.ttf</font>
+    </set>
+    <set name="Favorites">
+      <font>C:\WINDOWS\Fonts\OpenSans-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\JosefinSans-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\Capsuula.ttf</font>
+      <font>C:\WINDOWS\Fonts\Jura-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\ERASLGHT.TTF</font>
+      <font>C:\WINDOWS\Fonts\DIN-light.ttf</font>
+      <font>C:\WINDOWS\Fonts\DINPro-Light.ttf</font>
+      <font>C:\WINDOWS\Fonts\DJB Chalk It Up.ttf</font>
+      <font>C:\WINDOWS\Fonts\Eraser.ttf</font>
+      <font>C:\WINDOWS\Fonts\erasdust.ttf</font>
+      <font>C:\WINDOWS\Fonts\Gotham-ExtraLightItalic.otf</font>
+      <font>C:\WINDOWS\Fonts\gotham-rounded-light.otf</font>
+      <font>C:\WINDOWS\Fonts\JuraBook.ttf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNovaSoft-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\segoepr.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoescb.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoeuil.ttf</font>
+      <font>C:\WINDOWS\Fonts\SourceSansPro-Light.otf</font>
+      <font>C:\WINDOWS\Fonts\Typonil Light.otf</font>
+      <font>C:\WINDOWS\Fonts\YuGothL.ttc</font>
+      <font>C:\WINDOWS\Fonts\KozGoOr6N-ExtraLight.otf</font>
+      <font>C:\WINDOWS\Fonts\msgothic.ttc</font>
+    </set>
+    <set name="Gothic">
+      <font>C:\WINDOWS\Fonts\ALGER.TTF</font>
+      <font>C:\WINDOWS\Fonts\Arkhip_font.ttf</font>
+      <font>C:\WINDOWS\Fonts\COLONNA.TTF</font>
+      <font>C:\WINDOWS\Fonts\COOPBL.TTF</font>
+      <font>C:\WINDOWS\Fonts\COPRGTB.TTF</font>
+      <font>C:\WINDOWS\Fonts\COPRGTL.TTF</font>
+      <font>C:\WINDOWS\Fonts\Corleone.ttf</font>
+      <font>C:\WINDOWS\Fonts\Flux Architect Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\Gabriola.ttf</font>
+      <font>C:\WINDOWS\Fonts\HoboStd.otf</font>
+      <font>C:\WINDOWS\Fonts\Leawood Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\Leawood Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\Pterra-dactyl.ttf</font>
+      <font>C:\WINDOWS\Fonts\STENCIL.TTF</font>
+      <font>C:\WINDOWS\Fonts\Flat Earth Scribe.ttf</font>
+    </set>
+    <set name="Handwriting">
+      <font>C:\WINDOWS\Fonts\AlexBrush-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\AppleStormCBo.otf</font>
+      <font>C:\WINDOWS\Fonts\BRADHITC.TTF</font>
+      <font>C:\WINDOWS\Fonts\BrookeS8.ttf</font>
+      <font>C:\WINDOWS\Fonts\BrushScriptStd.otf</font>
+      <font>C:\WINDOWS\Fonts\BRUSHSCI.TTF</font>
+      <font>C:\WINDOWS\Fonts\Ethan.otf</font>
+      <font>C:\WINDOWS\Fonts\ICantStopThinkinOfYou.ttf</font>
+      <font>C:\WINDOWS\Fonts\LHANDW.TTF</font>
+      <font>C:\WINDOWS\Fonts\PEIXE.ttf</font>
+      <font>C:\WINDOWS\Fonts\RAGE.TTF</font>
+      <font>C:\WINDOWS\Fonts\Cheveuxdange.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoescb.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoesc.ttf</font>
+      <font>C:\WINDOWS\Fonts\SF_Cartoonist_Hand_SC_Bold.ttf</font>
+    </set>
+    <set name="Kids">
+      <font>C:\WINDOWS\Fonts\Filmotype Candy.ttf</font>
+      <font>C:\WINDOWS\Fonts\AppleStormIta.otf</font>
+      <font>C:\WINDOWS\Fonts\AppleStormXbdIta.otf</font>
+      <font>C:\WINDOWS\Fonts\Chalkboard.ttf</font>
+      <font>C:\WINDOWS\Fonts\chinrg_.ttf</font>
+      <font>C:\WINDOWS\Fonts\comic.ttf</font>
+      <font>C:\WINDOWS\Fonts\ITCKRIST.TTF</font>
+      <font>C:\WINDOWS\Fonts\mvboli.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoepr.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoeprb.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoescb.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoesc.ttf</font>
+      <font>C:\WINDOWS\Fonts\TektonPro-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\chint__.ttf</font>
+      <font>C:\WINDOWS\Fonts\kindergarten.ttf</font>
+      <font>C:\WINDOWS\Fonts\SF_Cartoonist_Hand_Bold.ttf</font>
+    </set>
+    <set name="Sans Sarif">
+      <font>C:\WINDOWS\Fonts\AdobeGothicStd-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\AdobeHeitiStd-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\ariblk.ttf</font>
+      <font>C:\WINDOWS\Fonts\BellGothicStd-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\big_noodle_titling.ttf</font>
+      <font>C:\WINDOWS\Fonts\calibrib.ttf</font>
+      <font>C:\WINDOWS\Fonts\CaviarDreams.ttf</font>
+      <font>C:\WINDOWS\Fonts\CaviarDreams_Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\GOTHICB.TTF</font>
+      <font>C:\WINDOWS\Fonts\GOTHIC.TTF</font>
+      <font>C:\WINDOWS\Fonts\consolab.ttf</font>
+      <font>C:\WINDOWS\Fonts\corbelb.ttf</font>
+      <font>C:\WINDOWS\Fonts\DIN-light.ttf</font>
+      <font>C:\WINDOWS\Fonts\DINBold.ttf</font>
+      <font>C:\WINDOWS\Fonts\DINPro-Black.ttf</font>
+      <font>C:\WINDOWS\Fonts\ebrima.ttf</font>
+      <font>C:\WINDOWS\Fonts\ebrimabd.ttf</font>
+      <font>A:\Program Files (x86)\Adobe\Acrobat 8.0\Designer 8.0\Fonts\eurosign.ttf</font>
+      <font>C:\WINDOWS\Fonts\FRADM.TTF</font>
+      <font>C:\WINDOWS\Fonts\FRAHV.TTF</font>
+      <font>C:\WINDOWS\Fonts\framd.ttf</font>
+      <font>C:\WINDOWS\Fonts\gadugi.ttf</font>
+      <font>C:\WINDOWS\Fonts\gadugib.ttf</font>
+      <font>C:\WINDOWS\Fonts\GIL_____.TTF</font>
+      <font>C:\WINDOWS\Fonts\GILB____.TTF</font>
+      <font>C:\WINDOWS\Fonts\GILLUBCD.TTF</font>
+      <font>C:\WINDOWS\Fonts\HATTEN.TTF</font>
+      <font>C:\WINDOWS\Fonts\Helvetica Neue Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\HelveticaNeueLTStd-BlkCn.otf</font>
+      <font>C:\WINDOWS\Fonts\impact.ttf</font>
+      <font>C:\WINDOWS\Fonts\JuraBook.ttf</font>
+      <font>C:\WINDOWS\Fonts\KozGoPr6N-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\KozGoPr6N-Heavy.otf</font>
+      <font>C:\WINDOWS\Fonts\KozGoPr6N-ExtraLight.otf</font>
+      <font>C:\WINDOWS\Fonts\KozGoPr6N-Medium.otf</font>
+      <font>C:\WINDOWS\Fonts\KozGoPro-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\leelauib.ttf</font>
+      <font>C:\WINDOWS\Fonts\leeluisl.ttf</font>
+      <font>C:\WINDOWS\Fonts\malgun.ttf</font>
+      <font>C:\WINDOWS\Fonts\malgunbd.ttf</font>
+      <font>C:\WINDOWS\Fonts\msjhbd.ttc</font>
+      <font>C:\WINDOWS\Fonts\msjhl.ttc</font>
+      <font>C:\WINDOWS\Fonts\ntailub.ttf</font>
+      <font>C:\WINDOWS\Fonts\Monitorica-Rg.ttf</font>
+      <font>C:\WINDOWS\Fonts\Monitorica-Bd.ttf</font>
+      <font>C:\WINDOWS\Fonts\mmrtextb.ttf</font>
+      <font>C:\WINDOWS\Fonts\MyriadArabic-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\MyriadArabic-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\MyriadHebrew-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\MyriadHebrew-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\Nirmala.ttf</font>
+      <font>C:\WINDOWS\Fonts\NirmalaB.ttf</font>
+      <font>C:\WINDOWS\Fonts\OpenSans-ExtraBold.ttf</font>
+      <font>C:\WINDOWS\Fonts\OpenSans-Light.ttf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNova-Black.ttf</font>
+      <font>C:\WINDOWS\Fonts\VNF-ProximaNovaCond-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNova-Light.otf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNovaSoft-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\segmdl2.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoeui.ttf</font>
+      <font>C:\WINDOWS\Fonts\seguibl.ttf</font>
+      <font>C:\WINDOWS\Fonts\tahomabd.ttf</font>
+      <font>C:\WINDOWS\Fonts\tahoma.ttf</font>
+      <font>C:\WINDOWS\Fonts\trebucbd.ttf</font>
+      <font>C:\WINDOWS\Fonts\TCB_____.TTF</font>
+      <font>C:\WINDOWS\Fonts\TCM_____.TTF</font>
+      <font>C:\WINDOWS\Fonts\TYPOGRAPH PRO Extra Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\TYPOGRAPH PRO Light.ttf</font>
+      <font>C:\WINDOWS\Fonts\TYPOGRAPH PRO Semi Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\verdana.ttf</font>
+      <font>C:\WINDOWS\Fonts\verdanab.ttf</font>
+      <font>C:\WINDOWS\Fonts\YuGothB.ttc</font>
+      <font>C:\WINDOWS\Fonts\YuGothM.ttc</font>
+      <font>C:\WINDOWS\Fonts\YuGothL.ttc</font>
+      <font>C:\WINDOWS\Fonts\YuGothR.ttc</font>
+      <font>C:\WINDOWS\Fonts\LemonMilklight.otf</font>
+      <font>C:\WINDOWS\Fonts\couture-bld.otf</font>
+      <font>C:\WINDOWS\Fonts\Comfortaa-Regular.ttf</font>
+    </set>
+    <set name="Sans Sarif (4+ Styles)">
+      <font>C:\WINDOWS\Fonts\SourceSansPro-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\Montserrat-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\AllerDisplay.ttf</font>
+      <font>C:\WINDOWS\Fonts\JosefinSans-Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\GothamNarrow-Black.otf</font>
+    </set>
+    <set name="Sarif">
+      <font>C:\WINDOWS\Fonts\COPRGTL.TTF</font>
+      <font>C:\WINDOWS\Fonts\COPRGTB.TTF</font>
+      <font>C:\WINDOWS\Fonts\AdobeHebrew-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\AdobeMingStd-Light.otf</font>
+      <font>C:\WINDOWS\Fonts\AGaramondPro-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\BELL.TTF</font>
+      <font>C:\WINDOWS\Fonts\BERNHC.TTF</font>
+      <font>C:\WINDOWS\Fonts\BKANT.TTF</font>
+      <font>C:\WINDOWS\Fonts\BOOKOSB.TTF</font>
+      <font>C:\WINDOWS\Fonts\CASTELAR.TTF</font>
+      <font>C:\WINDOWS\Fonts\SCHLBKB.TTF</font>
+      <font>C:\WINDOWS\Fonts\CENSCBK.TTF</font>
+      <font>C:\WINDOWS\Fonts\ChaparralPro-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\courbd.ttf</font>
+      <font>C:\WINDOWS\Fonts\cour.ttf</font>
+      <font>C:\WINDOWS\Fonts\GARABD.TTF</font>
+      <font>C:\WINDOWS\Fonts\GARA.TTF</font>
+      <font>C:\WINDOWS\Fonts\IMPRISHA.TTF</font>
+    </set>
+    <set name="Script Fonts">
+      <font>C:\WINDOWS\Fonts\BickhamScriptPro-Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\BickhamScriptPro-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\BickhamScriptPro-Semibold.otf</font>
+      <font>C:\WINDOWS\Fonts\CURLZ___.TTF</font>
+      <font>C:\WINDOWS\Fonts\ELEPHNTI.TTF</font>
+      <font>C:\WINDOWS\Fonts\GiddyupStd.otf</font>
+      <font>C:\WINDOWS\Fonts\GIGI.TTF</font>
+      <font>C:\WINDOWS\Fonts\HARLOWSI.TTF</font>
+      <font>C:\WINDOWS\Fonts\HARNGTON.TTF</font>
+      <font>C:\WINDOWS\Fonts\JOKERMAN.TTF</font>
+      <font>C:\WINDOWS\Fonts\KUNSTLER.TTF</font>
+      <font>C:\WINDOWS\Fonts\PALSCRI.TTF</font>
+      <font>C:\WINDOWS\Fonts\VIVALDII.TTF</font>
+      <font>C:\WINDOWS\Fonts\VLADIMIR.TTF</font>
+      <font>C:\WINDOWS\Fonts\HANDM__.TTF</font>
+      <font>C:\WINDOWS\Fonts\LearningCurve.ttf</font>
+      <font>C:\WINDOWS\Fonts\Early Bird.otf</font>
+      <font>C:\WINDOWS\Fonts\segoesc.ttf</font>
+      <font>C:\WINDOWS\Fonts\segoescb.ttf</font>
+    </set>
+    <set name="Soft">
+      <font>C:\WINDOWS\Fonts\ARLRDBD.TTF</font>
+      <font>C:\WINDOWS\Fonts\ChevinDemiBold.ttf</font>
+      <font>C:\WINDOWS\Fonts\Pseudonumb.otf</font>
+      <font>C:\WINDOWS\Fonts\Typonil Bold.otf</font>
+      <font>C:\WINDOWS\Fonts\OstrichSans-Heavy.otf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNovaSoft-Semibold.otf</font>
+      <font>C:\WINDOWS\Fonts\gotham-rounded-bold.otf</font>
+      <font>C:\WINDOWS\Fonts\gotham-rounded-light.otf</font>
+      <font>C:\WINDOWS\Fonts\ProximaNovaSoft-Bold.otf</font>
+    </set>
+    <set name="Straight And Narrow">
+      <font>C:\WINDOWS\Fonts\Capsuula.ttf</font>
+      <font>C:\WINDOWS\Fonts\CaviarDreams.ttf</font>
+      <font>C:\WINDOWS\Fonts\GILC____.TTF</font>
+      <font>C:\WINDOWS\Fonts\HATTEN.TTF</font>
+      <font>C:\WINDOWS\Fonts\JuraBook.ttf</font>
+      <font>C:\WINDOWS\Fonts\Monitorica-Rg.ttf</font>
+      <font>C:\WINDOWS\Fonts\OratorStd.otf</font>
+      <font>C:\WINDOWS\Fonts\OstrichSans-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\ostrich-regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\GothamNarrow-Book.otf</font>
+    </set>
+    <set name="Sundry Favorites">
+      <font>C:\WINDOWS\Fonts\BRLNSDB.TTF</font>
+      <font>C:\WINDOWS\Fonts\candarab.ttf</font>
+      <font>C:\WINDOWS\Fonts\ERASBD.TTF</font>
+      <font>C:\WINDOWS\Fonts\ERASDEMI.TTF</font>
+      <font>C:\WINDOWS\Fonts\ERASLGHT.TTF</font>
+      <font>C:\WINDOWS\Fonts\Exo-ExtraBold.otf</font>
+      <font>C:\WINDOWS\Fonts\Exo-Light.otf</font>
+      <font>C:\WINDOWS\Fonts\JuraBook.ttf</font>
+      <font>C:\WINDOWS\Fonts\KGBlankSpaceSolid.ttf</font>
+      <font>C:\WINDOWS\Fonts\LithosPro-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\LithosPro-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\MAIAN.TTF</font>
+      <font>C:\WINDOWS\Fonts\OCRAEXT.TTF</font>
+      <font>C:\WINDOWS\Fonts\OCRAStd.otf</font>
+      <font>C:\WINDOWS\Fonts\ROBOTECH GP.ttf</font>
+      <font>C:\WINDOWS\Fonts\Rounded.ttf</font>
+      <font>C:\WINDOWS\Fonts\Stroke-Regular.otf</font>
+      <font>C:\WINDOWS\Fonts\TEMPSITC.TTF</font>
+      <font>C:\WINDOWS\Fonts\Typonil Light.otf</font>
+      <font>C:\WINDOWS\Fonts\ExpletusSans-Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\Eutopia.otf</font>
+      <font>C:\WINDOWS\Fonts\Exo-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\Exo-Thin.otf</font>
+      <font>C:\WINDOWS\Fonts\MontserratAlternates-Black.otf</font>
+      <font>C:\WINDOWS\Fonts\PermanentMarker.ttf</font>
+    </set>
+    <set name="Textured">
+      <font>C:\WINDOWS\Fonts\AppleStormXbd.otf</font>
+      <font>C:\WINDOWS\Fonts\CabinSketch-Bold.ttf</font>
+      <font>C:\WINDOWS\Fonts\CabinSketch-Regular.ttf</font>
+      <font>C:\WINDOWS\Fonts\Egyptian Nights.ttf</font>
+      <font>C:\WINDOWS\Fonts\Futurr.ttf</font>
+      <font>C:\WINDOWS\Fonts\GrutchShaded.ttf</font>
+      <font>C:\WINDOWS\Fonts\HeadlinerNo.45 DEMO.ttf</font>
+      <font>C:\WINDOWS\Fonts\KGBlankSpaceSketch.ttf</font>
+      <font>C:\WINDOWS\Fonts\KGTangledUpInYou.ttf</font>
+      <font>C:\WINDOWS\Fonts\Mf Sippin On Sunshine.ttf</font>
+      <font>C:\WINDOWS\Fonts\Mona Shark.otf</font>
+      <font>C:\WINDOWS\Fonts\Mosaicleaf086.otf</font>
+      <font>C:\WINDOWS\Fonts\PALMS_.TTF</font>
+      <font>C:\WINDOWS\Fonts\PAPYRUS.TTF</font>
+      <font>C:\WINDOWS\Fonts\PEIXE.ttf</font>
+      <font>C:\WINDOWS\Fonts\PineappleDemo.ttf</font>
+      <font>C:\WINDOWS\Fonts\polite arif.otf</font>
+      <font>C:\WINDOWS\Fonts\Sketchetica.otf</font>
+      <font>C:\WINDOWS\Fonts\Stroke.ttf</font>
+      <font>C:\WINDOWS\Fonts\Sketch_Block.ttf</font>
+      <font>C:\WINDOWS\Fonts\african.ttf</font>
+      <font>C:\WINDOWS\Fonts\TribecaRegular.ttf</font>
+      <font>C:\WINDOWS\Fonts\SUPERTIK.TTF</font>
+      <font>C:\WINDOWS\Fonts\Afritubu.TTF</font>
+      <font>C:\WINDOWS\Fonts\CFJungleAdventure-Regular.ttf</font>
+    </set>
+  </sets>
+</library>
