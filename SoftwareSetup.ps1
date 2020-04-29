@@ -86,6 +86,7 @@ choco install -y atom
 choco install -y vscode
 choco install -y notepadplusplus.install
 choco install -y sublimetext3
+choco install -y androidstudio
 
 # IDE Extensions
 choco install vscode-prettier

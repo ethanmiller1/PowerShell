@@ -32,6 +32,7 @@ Mk-Dir WordPress
 Mk-Dir GroovyScript
 Mk-Dir PerformanceTesting
 Mk-Dir C++
+Mk-Dir AndroidStudioProjects
 
 cd NodeJS
 git clone https://github.com/ethanmiller1/ethanmiller1.github.io.git
