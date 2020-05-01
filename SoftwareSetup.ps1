@@ -42,6 +42,7 @@ choco install -y logitech-options
 choco install -y x-mouse-button-control
 choco install -y quicktime --version=7.7.1 #--version=7.60.92.0
 choco install -y svg-explorer-extension
+choco install -y click-monitor-ddc
 
 # Music
 choco install -y itunes
