@@ -9,3 +9,9 @@
 
 # Install software
 .\SoftwareSetup.ps1
+
+# Install keyboard support for Spanish and Greek
+.\AddLanguages.ps1
+
+# Copy settings and program data
+.\ProgramData.ps1
