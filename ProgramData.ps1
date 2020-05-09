@@ -1,0 +1,1 @@
+Copy-Item -Path "Program Data\ClickMonitorDDC\ClickMonitorDDC.xml" -Destination ${env:PROGRAMFILES(X86)}/ClickMonitorDDC -Recurse
