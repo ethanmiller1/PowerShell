@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\ethan\\AppData\\Roaming\\Adobe\\After Effects\\8.0"
+		},
+		{
+			"path": "..\\..\\..\\OneDrive - cougarmail.collin.edu\\Projects Folder\\Pictures\\Everything I Know About After Effects"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**.ini": true,
+			"**.log": true,
+			"**/**/**.db": true,
+			"**/**/**.gif": true,
+			"**/**/**.jpg": true,
+			"**/**/**.JPG": true,
+			"**/**/**.mp4": true,
+			"**/**/**.png": true,
+			"**/**/**.PNG": true,
+			"**/**/**.psd": true,
+			"**/**/**/**/**.docx": true,
+			"**/**/**/**/**.lnk": true,
+			"**/**/**/**/**.url": true,
+			"**/**/**/**/**.URL": true,
+			"**/Adobe After Effects 8.0 MC Prefs": true,
+			"**/Cache": true,
+			"**/DVADialogPrefs": true,
+			"**/MediaIO": true,
+			"**/ModifiedWorkspaces": true,
+			"Trace Database.txt": true,
+			"Backrounds": true,
+			"Backrounds": true,
+			"Backrounds": true,
+			"Camera": true,
+			"Character Animations": true,
+			"Github Repository": true,
+			"Keybord Shortcuts": false,
+			"Motion Graphics": false,
+			"Startup Settings": true,
+			"Text Animation/Multi Text Animations": true,
+			"Text Animation/Text Animations": true,
+			"Text Animation/Typography Rules": true,
+			"Text Animation/TypoKing": true,
+			"Text Animation/Typography Design/Circle Bursts": true,
+			"Text Animation/Typography Design/Colors": true,
+			"Text Animation/Typography Design/Fonts": true,
+			"Text Animation/Typography Design/Glitch": true,
+			"Text Animation/Typography Design/Less Awesome": true,
+			"Text Animation/Typography Design/Text": false,
+			"Text Animation/Typography Design/Transitions": true,
+			"Text Animation/Typography Design/Typography": true,
+			"Tip Of The Day": true
+		}
+	}
+}
