@@ -1,3 +1,5 @@
+# Adobe Project Structure
+
 function Mk-Dir {
   param(
     [Parameter(Mandatory)]
@@ -10,7 +12,8 @@ function Mk-Dir {
   }
 }
 
-$path = Read-Host 'What is your project location?'
+# $path = Read-Host 'What is your project location?'
+$path = "."
 $templates = "A:\Users\Ethan Miller\Graphic Design\After Effects Templates & Tools"
 
 Set-Location $path
