@@ -43,6 +43,7 @@ choco install -y x-mouse-button-control
 choco install -y quicktime --version=7.7.1 #--version=7.60.92.0
 choco install -y svg-explorer-extension
 choco install -y click-monitor-ddc
+choco install -y monitorswitcher
 
 # Music
 choco install -y itunes
@@ -96,6 +97,7 @@ choco install vscode-prettier
 # choco install -add vscode-partial-diff
 # choco install -add vscode-code-runner
 # choco install -add vscode-bracket-pair-colorizer
+choco install vscode-yaml
 choco install vscode-python
 choco install vscode-vsliveshare
 choco install vscode-gitlens
@@ -122,6 +124,8 @@ choco install -y ngrok
 choco install -y nssm
 choco install -y mingw
 choco install -y python
+npm install -g @angular/cli
+
 
 # Global node modules
 npm install -g touch-cli
