@@ -1,6 +1,3 @@
-# Add Scripts to PATH variable
-export PATH="$PATH:A:\Users\Ethan\Repos\PowerShell\PowerShell\Custom Commands"
-
 # Install Chocolatey Windows Package Manager
 .\InstallChocolatey.ps1
 

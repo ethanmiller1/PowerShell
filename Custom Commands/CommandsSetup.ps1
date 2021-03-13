@@ -10,8 +10,9 @@ $env:INCLUDE = [Environment]::GetEnvironmentVariable("Path", [EnvironmentVariabl
 # Check if alias has been registered with PowerShell
 # get-alias new-ap
 
-# Add alias to PowerShell Profile
-Add-Content $profile "new-alias new-ap AdobeProjectStructure.ps1"
+# Add alias to PowerShell Profile (add manually if fails)
+Add-Content $profile "new-alias new-project AdobeProjectStructure.ps1"
+Add-Content $profile "new-alias new-cover CopyAlbumTemplate.ps1"
 
 # View PowerShell Profile in notepad
 # notepad $profile
