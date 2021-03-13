@@ -1,2 +1,4 @@
 /CloneRepos.ps1
 /Functions.ps1
+.idea
+*.iml
