@@ -80,6 +80,8 @@ choco install mysql
 choco install mysql.workbench
 choco install sql-server-management-studio
 choco install mongodb
+choco install -y postgresql --params '/Password:admin'
+choco install -y pgadmin4
 
 # IDE tools
 choco install intellijidea-community
