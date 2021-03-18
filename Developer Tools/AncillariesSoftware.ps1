@@ -2,7 +2,7 @@
 choco install intellijidea-ultimate
 choco install intellijidea-community
 # choco install -y androidstudio
-# choco install visualstudio2019community
+# choco install -y visualstudio2019community
 # choco install -y eclipse
 choco install -y vscode
 # choco install -y sublimetext3
@@ -10,11 +10,6 @@ choco install -y vscode
 
 # IDE Extensions
 choco install vscode-prettier
-# choco install -add vscode-faker
-# choco install -add vscode-css-peek
-# choco install -add vscode-partial-diff
-# choco install -add vscode-code-runner
-# choco install -add vscode-bracket-pair-colorizer
 choco install vscode-yaml
 choco install vscode-python
 choco install vscode-vsliveshare
@@ -28,11 +23,6 @@ choco install -y postman
 choco install -y soapui
 choco install -y fiddler
 choco install -y jmeter
-# choco install -add hp-loadrunner
-# choco install -add devtest
-# choco install -add readyapi
-# choco install -add hey
-# choco install -add yourkit
 
 # Productivity Tools
 choco install -y 7zip
@@ -53,7 +43,6 @@ choco install -y ivy
 choco install -y kubernetes-cli
 choco install -y k9s
 choco install -y kustomize
-# choco install -add k8slens
 choco install -y docker-desktop
 choco install -y docker-cli
 
