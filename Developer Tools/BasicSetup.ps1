@@ -91,10 +91,10 @@ choco install -y ivy
 
 # Cluster Management
 choco install -y kubernetes-cli
+choco install -y k9s
 choco install -y kustomize
 choco install -y docker-desktop
 choco install -y docker-cli
 
-# Logging and Monitoring
-choco install -y elasticsearch
-choco install -y kibana
+# Windows Features
+choco install -y rsat

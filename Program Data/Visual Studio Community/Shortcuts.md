@@ -8,6 +8,8 @@
 | Transform uppercase    | Ctrl + Shift + U | Ctrl + Shift + U   | Ctrl + Shift + U |
 | Quick Documentation    | Ctrl + Q         |                    |                  |
 | Show Inherited Members | Ctrl + F12       |                    |                  |
+| Override methods       | Ctrl + O         |                    |                  |
+| Extract method         | Ctrl + Alt + M   |                    |                  |
 
 [IntelliJ](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
 
