@@ -42,23 +42,9 @@ If(!(test-path $repos))
   New-Item -ItemType Directory -Force -Path $repos
 }
 
-# Make directory if it doesn't exist
-function Mk-Dir {
-  param(
-    [Parameter(Mandatory)]
-    [string]$dir
-  )
-
-  $path = "$repos\$dir"
-  If(!(test-path $path))
-  {
-    New-Item -ItemType Directory -Force -Path $path
-  }
-}
-
 # IDE tools
-choco install intellijidea-ultimate
-choco install intellijidea-community
+choco install -y intellijidea-community
+choco install -y intellijidea-ultimate
 choco install -y vscode
 choco install vscode-prettier
 choco install vscode-vsliveshare
@@ -91,10 +77,10 @@ choco install -y ivy
 
 # Cluster Management
 choco install -y kubernetes-cli
+choco install -y k9s
 choco install -y kustomize
 choco install -y docker-desktop
 choco install -y docker-cli
 
-# Logging and Monitoring
-choco install -y elasticsearch
-choco install -y kibana
+# Windows Features
+choco install -y rsat
