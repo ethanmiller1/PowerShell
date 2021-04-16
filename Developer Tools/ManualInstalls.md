@@ -8,6 +8,26 @@
 * [Properties to YAML Converter](https://plugins.jetbrains.com/plugin/8000-properties-to-yaml-converter)
 * [Show As .​.​.​](https://plugins.jetbrains.com/plugin/7010-show-as--)
 * [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator)
+* [Color Highlighter](https://plugins.jetbrains.com/plugin/13309-color-highlighter)
+
+### Settings
+
+* [In-editor Javadocs rendering](https://blog.jetbrains.com/idea/2020/03/intellij-idea-2020-1-eap8/)
+* `File > Settings > Editor > Code Style > Java > Imports > Class count to use / Names count to use static import with '*': 99`
+![](https://i.ibb.co/mtzscvD/image.png)
+* `File > Settings > Editor > General > Auto Import > Add unambiguous imports of the fly`
+* `File > Settings > Build, Execution, Deployment > Build Tools Reload project after changes in the build scripts: Any changes`
+
+#### Set Terminal to Git Bash
+
+`File > Settings > Tools > Terminal > Shell path > C:\Program Files\Git\git-cmd.exe`
+#### Cutom Keyboard Shortcuts
+
+| Action                             | IntelliJ |
+| ---------------------------------- | -------- |
+| Analyze Stack Trace or Thread Dump | Alt + D  |
+| Show History for Selection         | Alt + H  |
+| Generate Date                      | Alt + I  |
 
 ## Performance Testing
 
@@ -28,3 +48,32 @@
 * [ReadyAPI](https://support.smartbear.com/readyapi/downloads/)
 * [hey](https://github.com/rakyll/hey)
 * [Kontena Lens](https://k8slens.dev/)
+
+## Bommaker Script
+
+### 1. Add this `bom.sh` to `%USERPROFILE%`.
+```sh
+#! /bin/bashq
+mvn -U clean install
+wait
+mvn bommaker:bommaker
+wait
+. install_bom.sh
+```
+
+### 2. Set an alias to execute it.
+
+#### In Git Bash Profile
+
+```
+vi ~/.bash_profile
+alias bom=". ~/bom.sh"
+Esc -> :wq         (Write/Quit)
+source ~/.bash_profile
+```
+
+#### In PowerShell Profile
+```
+Add-Content $profile "new-alias new-project AdobeProjectStructure.ps1"
+Add-Content $profile "new-alias new-cover CopyAlbumTemplate.ps1"
+```
