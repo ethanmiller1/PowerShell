@@ -46,13 +46,13 @@ If(!(test-path $repos))
 choco install -y intellijidea-community
 choco install -y intellijidea-ultimate
 choco install -y vscode
-choco install vscode-prettier
-choco install vscode-vsliveshare
-choco install vscode-gitlens
-choco install vscode-yaml
-choco install vscode-chrome-debug
-choco install vscode-codespellchecker
-choco install vscode-powershell
+choco install -y vscode-prettier
+choco install -y vscode-vsliveshare
+choco install -y vscode-gitlens
+choco install -y vscode-yaml
+choco install -y vscode-chrome-debug
+choco install -y vscode-codespellchecker
+choco install -y vscode-powershell
 
 # QA and Load Testing Tools
 choco install -y postman

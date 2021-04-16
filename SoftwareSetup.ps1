@@ -76,17 +76,17 @@ choco install -y jmeter
 # choco install -add devtest
 
 # Database
-choco install mysql
-choco install mysql.workbench
-choco install sql-server-management-studio
-choco install mongodb
+choco install -y mysql
+choco install -y mysql.workbench
+choco install -y sql-server-management-studio
+choco install -y mongodb
 choco install -y postgresql --params '/Password:admin'
 choco install -y pgadmin4
 
 # IDE tools
-choco install intellijidea-community
-# choco install intellijidea-ultimate
-choco install visualstudio2019community
+choco install -y intellijidea-community
+choco install -y intellijidea-ultimate
+choco install -y visualstudio2019community
 choco install -y atom
 choco install -y vscode
 choco install -y notepadplusplus.install
@@ -94,19 +94,19 @@ choco install -y sublimetext3
 choco install -y androidstudio
 
 # IDE Extensions
-choco install vscode-prettier
+choco install -y vscode-prettier
 # choco install -add vscode-faker
 # choco install -add vscode-css-peek
 # choco install -add vscode-partial-diff
 # choco install -add vscode-code-runner
 # choco install -add vscode-bracket-pair-colorizer
-choco install vscode-yaml
-choco install vscode-python
-choco install vscode-vsliveshare
-choco install vscode-gitlens
-choco install vscode-chrome-debug
-choco install vscode-codespellchecker
-choco install vscode-powershell
+choco install -y vscode-yaml
+choco install -y vscode-python
+choco install -y vscode-vsliveshare
+choco install -y vscode-gitlens
+choco install -y vscode-chrome-debug
+choco install -y vscode-codespellchecker
+choco install -y vscode-powershell
 
 # Chat tools
 choco install -y discord
