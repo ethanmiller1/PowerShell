@@ -9,6 +9,7 @@
 * [Show As .​.​.​](https://plugins.jetbrains.com/plugin/7010-show-as--)
 * [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator)
 * [Color Highlighter](https://plugins.jetbrains.com/plugin/13309-color-highlighter)
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 
 ### Settings
 
