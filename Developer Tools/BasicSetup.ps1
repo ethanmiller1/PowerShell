@@ -77,6 +77,7 @@ choco install -y ivy
 
 # Cluster Management
 choco install -y kubernetes-cli
+choco install -y minikube
 choco install -y k9s
 choco install -y kustomize
 choco install -y docker-desktop
