@@ -15,6 +15,7 @@ choco install -y paint.net
 choco install -y 7zip
 choco install -y winrar
 choco install -y sysinternals
+choco install -y lightshot
 
 # Games
 choco install -y steam

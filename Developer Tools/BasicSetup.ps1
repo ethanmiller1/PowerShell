@@ -64,6 +64,7 @@ choco install -y jmeter
 choco install -y 7zip
 choco install -y evernote
 choco install -y office365proplus
+choco install -y lightshot
 
 # Java
 choco install -y jdk11
@@ -86,3 +87,6 @@ choco install -y rdmfree
 
 # Windows Features
 choco install -y rsat
+
+# Shell features
+choco install -y grep
