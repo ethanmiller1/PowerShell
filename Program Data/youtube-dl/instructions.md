@@ -37,7 +37,30 @@ youtube-dl --download-archive downloaded.txt --no-post-overwrites -ciwx --audio-
 youtube-dl --download-archive downloaded.txt --audio-quality 0 -ciwx --audio-format mp3 -o '%(playlist_index)s - %(title)s.%(ext)s' 'https://www.youtube.com/playlist?list=PLldzZ8QrGlsZ3OJKHfwWeRSqdmnBSB554'
 ```
 
+## [Single Video](https://linuxconfig.org/download-video-from-the-command-line-with-youtube-dl)
 
+```powershell
+youtube-dl --recode-video mp4 url
+```
+
+### Example
+
+```powershell
+youtube-dl --recode-video mp4 https://www.youtube.com/watch?v=LZskF7mqOBQ
+```
+
+## [Entire Channel](https://askubuntu.com/questions/856911/using-youtube-dl-to-download-entire-youtube-channel)
+
+```powershell
+youtube-dl -f best -ciw -o "%(title)s.%(ext)s" -v <url-of-channel>
+```
+
+### Example
+
+```powershell
+youtube-dl -f best -ciw -o "%(title)s.%(ext)s" -v https://www.youtube.com/channel/UCdvj8O0RRa9E9zOE6WVl9-g/featured
+
+```
 
 ## [Options](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#filesystem-options)
 

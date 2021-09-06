@@ -10,6 +10,7 @@
 | Show Inherited Members | Ctrl + F12       |                    |                  |
 | Override methods       | Ctrl + O         |                    |                  |
 | Extract method         | Ctrl + Alt + M   |                    |                  |
+| Select Opened File     | Alt + F1, 1      |                    |                  |
 
 [IntelliJ](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
 

@@ -17,6 +17,11 @@
 ![](https://i.ibb.co/mtzscvD/image.png)
 * `File > Settings > Editor > General > Auto Import > Add unambiguous imports of the fly`
 * `File > Settings > Build, Execution, Deployment > Build Tools Reload project after changes in the build scripts: Any changes`
+* `File > Settings > Editor > General > Smart Keys >` [Use "CamelHumps" words](https://stackoverflow.com/questions/52034981/shortcut-for-selection-till-next-capital-letter-intellij-android-studio/52035699)
+### Insert Date String in IntelliJ
+Install the [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator) plugin, then 
+1. `settings > Other Settings` and insert `'(A) 'yyyy-MM-dd' 'HH:mm' '`
+1. `Settings > Keymap > Plug-ins > Current date generator`
 
 #### Set Terminal to Git Bash
 
