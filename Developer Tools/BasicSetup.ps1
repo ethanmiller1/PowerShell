@@ -77,10 +77,12 @@ choco install -y ivy
 
 # Cluster Management
 choco install -y kubernetes-cli
+choco install -y minikube
 choco install -y k9s
 choco install -y kustomize
 choco install -y docker-desktop
 choco install -y docker-cli
+choco install -y rdmfree
 
 # Windows Features
 choco install -y rsat

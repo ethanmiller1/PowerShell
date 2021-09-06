@@ -9,6 +9,7 @@
 * [Show As .​.​.​](https://plugins.jetbrains.com/plugin/7010-show-as--)
 * [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator)
 * [Color Highlighter](https://plugins.jetbrains.com/plugin/13309-color-highlighter)
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 
 ### Settings
 
@@ -50,7 +51,7 @@ Install the [Current date generator](https://plugins.jetbrains.com/plugin/9722-c
 ## Other Software
 
 
-* [ReadyAPI](https://support.smartbear.com/readyapi/downloads/)
+* [ReadyAPI](https://support.smartbear.com/readyapi/downloads/) | [Link](http://dl.eviware.com/ready-api/readyapi.htm#_ga=2.106282307.1992450419.1595886902-161299662.1594941619&_gac=1.47633109.1594941620.Cj0KCQjw9b_4BRCMARIsADMUIyqznHF43h5zO6F54wcpdJcIYE771VYZla6UoeBNV-zGdl1PXBCBJAsaAo0SEALw_wcB)
 * [hey](https://github.com/rakyll/hey)
 * [Kontena Lens](https://k8slens.dev/)
 
