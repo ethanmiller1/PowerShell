@@ -142,3 +142,7 @@ npm install -g browser-sync
 # npm install -g parcel-bundler
 # npm install -g node-sass
 # npm install -g pm2
+
+# Shell features
+choco install -y grep
+choco install -y netcat

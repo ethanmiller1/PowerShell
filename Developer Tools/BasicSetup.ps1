@@ -90,3 +90,4 @@ choco install -y rsat
 
 # Shell features
 choco install -y grep
+choco install -y netcat
