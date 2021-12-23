@@ -29,6 +29,17 @@
 
 [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-replacing-text?view=vs-2019#multi-caret-selection)
 
+## Text-Editing Keyboard Shortcuts
+
+| Action                                     | Command            |
+| ------------------------------------------ | ------------------ |
+| Move cursor to beginning of previous word. | Ctrl + Left Arrow  |
+| Move cursor to beginning of next word      | Ctrl + Right Arrow |
+| Delete previous word.                      | Ctrl + Backspace   |
+| Delete next word.                          | Ctrl + Delete      |
+| Go to beginning of line                    | Fn + left arrow    |
+| Go to end of line                          | Fn + right arrow   |
+
 ## Line Manipulation
 
 | Action         | IntelliJ            | Visual Studio | VS Code            |

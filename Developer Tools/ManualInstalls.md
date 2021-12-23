@@ -10,6 +10,7 @@
 * [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator)
 * [Color Highlighter](https://plugins.jetbrains.com/plugin/13309-color-highlighter)
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+* [HTTP Client](https://plugins.jetbrains.com/plugin/13121-http-client)
 
 ### Settings
 
@@ -54,6 +55,30 @@ Install the [Current date generator](https://plugins.jetbrains.com/plugin/9722-c
 * [ReadyAPI](https://support.smartbear.com/readyapi/downloads/) | [Link](http://dl.eviware.com/ready-api/readyapi.htm#_ga=2.106282307.1992450419.1595886902-161299662.1594941619&_gac=1.47633109.1594941620.Cj0KCQjw9b_4BRCMARIsADMUIyqznHF43h5zO6F54wcpdJcIYE771VYZla6UoeBNV-zGdl1PXBCBJAsaAo0SEALw_wcB)
 * [hey](https://github.com/rakyll/hey)
 * [Kontena Lens](https://k8slens.dev/)
+* [RGui](https://archive.linux.duke.edu/cran/)
+
+hey
+```
+# Install Go Version Manager
+$ bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+
+# Activate gvm without restarting shell
+$ source $USERPROFILE/.gvm/scripts/gvm
+
+# install go1.4
+$ gvm install go1.4
+$ gvm use go1.4
+
+# Install hey
+$ go get -u github.com/rakyll/hey to install hey
+
+OR
+
+$ choco install golang --version=1.4
+```
+
+
+
 
 ## Bommaker Script
 
