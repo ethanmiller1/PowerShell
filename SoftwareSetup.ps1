@@ -61,7 +61,7 @@ choco install -y gpmdp
 choco install -y plexmediaserver
 choco install -y plexmediaplayer
 choco install -y xmedia-recode
-choco install -y win-youtube-dl
+choco install -y youtube-dl
 choco install -y youtube-dl-gui.install
 choco install -y youtube-mp3
 choco install -y vlc
