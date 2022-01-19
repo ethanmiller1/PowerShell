@@ -46,6 +46,7 @@ choco install -y quicktime --version=7.7.1 #--version=7.60.92.0
 choco install -y svg-explorer-extension
 choco install -y click-monitor-ddc
 choco install -y monitorswitcher
+choco install -y gimp
 
 # Music
 choco install -y itunes
@@ -130,7 +131,6 @@ choco install -y nssm
 choco install -y mingw
 choco install -y python
 npm install -g @angular/cli
-
 
 # Global node modules
 npm install -g touch-cli
