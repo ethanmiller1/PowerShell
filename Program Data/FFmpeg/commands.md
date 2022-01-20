@@ -22,10 +22,24 @@ $ ffmpeg -f concat -safe 0 -i files.txt -c copy output.mp4
 
 ## Generate Sprite Sheet (Filmstrip/Montage) From MP4
 ```bash
-video="Shymol 01-07-2020-16-48-53.mp4" && \
+video="001 - 01-04-2015 AM - The Sins of the 7 Churches Part 2.mp4" && \
 seconds=$(ffmpeg -i "$video" 2>&1 | grep "Duration"| cut -d ' ' -f 4 | sed s/,// | sed 's@\..*@@g' | awk '{ split($1, A, ":"); split(A[3], B, "."); print 3600*A[1] + 60*A[2] + B[1] }') && \
 frames=$(echo $seconds 15 | awk '{printf("%.0f\n", $1 / $2)}') && \
 ffmpeg -i "$video" -filter_complex \
-"select='not(mod(n,30))',scale=256:-1,tile=layout=${frames}x1" \
--vframes 1 -q:v 2 output.jpg
+"select='not(mod(n,30))',scale=248:-1,tile=layout=${frames}x1" \
+-vframes 1 -q:v 2 "${video//mp4/jpg}"
+```
+
+## Generate Sprite Sheet (Filmstrip/Montage) From Multiple MP4s
+```bash
+for i in *.mp4;
+do
+    video=${i%.mp4} && \
+    seconds=$(ffmpeg -i "$video.mp4" 2>&1 | grep "Duration"| cut -d ' ' -f 4 | sed s/,// | sed 's@\..*@@g' | awk '{ split($1, A, ":"); split(A[3], B, "."); print 3600*A[1] + 60*A[2] + B[1] }') && \
+    frames=$(echo $seconds 15 | awk '{printf("%.0f\n", $1 / $2)}') && \
+    ffmpeg -i "$video.mp4" -filter_complex \
+    "select='not(mod(n,30))',scale=248:-1,tile=layout=${frames}x1" \
+    -vframes 1 -q:v 2 "$video.jpg"
+done
+
 ```
