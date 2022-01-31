@@ -11,6 +11,7 @@
 * [Color Highlighter](https://plugins.jetbrains.com/plugin/13309-color-highlighter)
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 * [HTTP Client](https://plugins.jetbrains.com/plugin/13121-http-client)
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
 ### Settings
 
