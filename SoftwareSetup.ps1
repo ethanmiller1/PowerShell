@@ -5,6 +5,7 @@ choco install -y flashplayerplugin
 choco install -y flashplayeractivex
 
 # Productivity tools
+choco install -y obsidian
 choco install -y evernote
 choco install -y office365proplus
 choco install -y adobereader
@@ -84,6 +85,7 @@ choco install -y mysql.workbench
 choco install -y sql-server-management-studio
 choco install -y mongodb
 choco install -y postgresql --params '/Password:admin'
+choco install -y oracle-sql-developer --params="'/Username:ethan.romans5.8@gmail.com /Password:@Dmin000'"
 choco install -y pgadmin4
 
 # IDE tools
