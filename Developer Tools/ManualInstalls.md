@@ -21,6 +21,7 @@
 * `File > Settings > Editor > General > Auto Import > Add unambiguous imports of the fly`
 * `File > Settings > Build, Execution, Deployment > Build Tools Reload project after changes in the build scripts: Any changes`
 * `File > Settings > Editor > General > Smart Keys >` [Use "CamelHumps" words](https://stackoverflow.com/questions/52034981/shortcut-for-selection-till-next-capital-letter-intellij-android-studio/52035699)
+* `Settings > Editor > General >` [Change font size with Ctrl+Mouse Wheel](https://www.jetbrains.com/go/guide/tips/change-font-size-using-mouse-wheel/#:~:text=Turn%20on%20the%20feature%20in,font%20size%20of%20your%20editor.)
 ### Insert Date String in IntelliJ
 Install the [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator) plugin, then 
 1. `settings > Other Settings` and insert `'(A) 'yyyy-MM-dd' 'HH:mm' '`
