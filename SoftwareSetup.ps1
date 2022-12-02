@@ -18,6 +18,7 @@ choco install -y winrar
 choco install -y sysinternals
 choco install -y lightshot
 choco install -y yarn
+choco install -y powertoys
 
 # Games
 choco install -y steam
@@ -92,6 +93,7 @@ choco install -y pgadmin4
 choco install -y intellijidea-community
 choco install -y intellijidea-ultimate
 choco install -y visualstudio2019community
+choco install -y visualstudio2019-workload-nativedesktop
 choco install -y atom
 choco install -y vscode
 choco install -y notepadplusplus.install
