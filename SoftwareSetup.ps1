@@ -69,6 +69,7 @@ choco install -y youtube-dl-gui.install
 choco install -y youtube-mp3
 choco install -y vlc
 choco install anyvideoconverter
+choco install -y resilio-sync-home
 
 # Cloud storage
 choco install -y dropbox
