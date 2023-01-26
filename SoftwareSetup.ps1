@@ -20,6 +20,7 @@ choco install -y lightshot
 choco install -y yarn
 choco install -y powertoys
 choco install -y pandoc
+choco install -y zotero
 
 # Games
 choco install -y steam
