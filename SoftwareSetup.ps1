@@ -19,6 +19,7 @@ choco install -y sysinternals
 choco install -y lightshot
 choco install -y yarn
 choco install -y powertoys
+choco install -y pandoc
 
 # Games
 choco install -y steam
