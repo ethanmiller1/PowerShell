@@ -8,12 +8,27 @@ function Execute([string] $cmd)
 
 # Install Chocolatey
 Execute "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"
+
+# Add choco command to path
 sc Env:\Path "$(gc Env:\Path);$(gc Env:\SystemDrive)\chocolatey\bin"
+
+# Refresh the environment variables after installing Chocolatey
+Execute "$(gc Env:\SystemDrive)\ProgramData\chocolatey\bin\RefreshEnv.cmd"
+
+# The above command doesn't work as expected. Close the shell after installing choclatey and paste the rest of the script.
 
 # Version Control Chocolatey Packages
 choco install -y git
 choco install -y tortoisegit
 choco install -y poshgit
+
+# In Order to make Git work without PS restart temporarily add Git to path
+$env:path+='$(gc Env:\SystemDrive)\Program Files\Git\cmd'
+
+# Refresh the environment variables after installing Git/Posh Git
+refreshenv
+
+# The above command also doesn't work as expected. Close the shell after installing choclatey and paste the rest of the script.
 
 # Setup GIT with my info
 $name = Read-Host "Please enter your git user.name"
@@ -56,8 +71,6 @@ choco install -y vscode-powershell
 
 # QA and Load Testing Tools
 choco install -y postman
-choco install -y soapui
-choco install -y fiddler
 choco install -y jmeter
 
 # Productivity Tools
@@ -65,10 +78,13 @@ choco install -y 7zip
 choco install -y evernote
 choco install -y office365proplus
 choco install -y lightshot
+choco install -y powertoys
+choco install -y obsidian
 
 # Java
-choco install -y jdk11
-choco install -y jdk8
+choco install -y openjdk17
+choco install -y openjdk11
+choco install -y openjdk8
 
 # Java libraries
 choco install -y maven
@@ -84,6 +100,7 @@ choco install -y kustomize
 choco install -y docker-desktop
 choco install -y docker-cli
 choco install -y rdmfree
+choco install openlens --version=6.2.5
 
 # Windows Features
 choco install -y rsat
