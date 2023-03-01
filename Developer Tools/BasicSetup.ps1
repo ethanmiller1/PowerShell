@@ -68,6 +68,7 @@ choco install -y vscode-yaml
 choco install -y vscode-chrome-debug
 choco install -y vscode-codespellchecker
 choco install -y vscode-powershell
+choco install -y keystore-explorer.portable
 
 # QA and Load Testing Tools
 choco install -y postman
@@ -80,6 +81,7 @@ choco install -y office365proplus
 choco install -y lightshot
 choco install -y powertoys
 choco install -y obsidian
+choco install -y slack
 
 # Java
 choco install -y openjdk17
