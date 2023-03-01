@@ -49,3 +49,11 @@ cd ../Python
 git clone https://github.com/ethanmiller1/Get-Movie-Title.git
 git clone https://github.com/ethanmiller1/Batch-File-Rename-Helper.git
 git clone https://github.com/ethanmiller1/Northwind-Traders.git
+
+# Copy Obsidian Vaults
+cd "$env:USERPROFILE\Documents"
+Mk-Dir Obsidian
+cd Obsidian
+git clone https://github.com/ethanimproving/Family-Ideas.git
+git clone https://github.com/ethanimproving/Professional-Journal.git
+git clone https://github.com/ethanmiller1/PowerShell.git
