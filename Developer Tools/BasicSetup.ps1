@@ -69,6 +69,7 @@ choco install -y vscode-chrome-debug
 choco install -y vscode-codespellchecker
 choco install -y vscode-powershell
 choco install -y keystore-explorer.portable
+choco install -y oracle-sql-developer
 
 # QA and Load Testing Tools
 choco install -y postman
