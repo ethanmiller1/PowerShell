@@ -103,7 +103,7 @@ choco install -y kustomize
 choco install -y docker-desktop
 choco install -y docker-cli
 choco install -y rdmfree
-choco install -y openlens --version=6.2.5
+choco install -y openlens --version=6.2.5 --ignore-checksums
 
 # Windows Features
 choco install -y rsat
