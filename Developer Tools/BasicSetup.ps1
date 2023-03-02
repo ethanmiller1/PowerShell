@@ -12,6 +12,9 @@ Execute "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/
 # Add choco command to path
 sc Env:\Path "$(gc Env:\Path);$(gc Env:\SystemDrive)\chocolatey\bin"
 
+# Install IBM CLoud CLI
+Execute "iex(New-Object Net.WebClient).DownloadString('https://clis.cloud.ibm.com/install/powershell')"
+
 # Refresh the environment variables after installing Chocolatey
 Execute "$(gc Env:\SystemDrive)\ProgramData\chocolatey\bin\RefreshEnv.cmd"
 
