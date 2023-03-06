@@ -12,6 +12,7 @@
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 * [HTTP Client](https://plugins.jetbrains.com/plugin/13121-http-client)
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+* [ChatGPT](https://plugins.jetbrains.com/plugin/20603-chatgpt) (Generate API Key at https://platform.openai.com/account/api-keys)
 
 ### Settings
 
