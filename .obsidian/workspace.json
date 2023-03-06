@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program Data/Any Video Converter.md",
+                "file": "Program Data/youtube-dl/instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Data/Any Video Converter.md",
-                "collapseAll": false,
+                "file": "Program Data/youtube-dl/instructions.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program Data/Any Video Converter.md",
+                "file": "Program Data/youtube-dl/instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program Data/Any Video Converter.md"
+                "file": "Program Data/youtube-dl/instructions.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "865fc8200de7317f",
+  "active": "18500392602c75e5",
   "lastOpenFiles": [
-    "README.md",
     "Program Data/Any Video Converter.md",
+    "README.md",
     "Developer Tools/ManualInstalls.md"
   ]
 }
