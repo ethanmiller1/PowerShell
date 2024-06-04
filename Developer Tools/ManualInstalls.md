@@ -23,6 +23,9 @@
 * `File > Settings > Build, Execution, Deployment > Build Tools Reload project after changes in the build scripts: Any changes`
 * `File > Settings > Editor > General > Smart Keys >` [Use "CamelHumps" words](https://stackoverflow.com/questions/52034981/shortcut-for-selection-till-next-capital-letter-intellij-android-studio/52035699)
 * `Settings > Editor > General >` [Change font size with Ctrl+Mouse Wheel](https://www.jetbrains.com/go/guide/tips/change-font-size-using-mouse-wheel/#:~:text=Turn%20on%20the%20feature%20in,font%20size%20of%20your%20editor.)
+* Remove [Code Vision](https://intellij-support.jetbrains.com/hc/en-us/community/posts/7175166585618-Inlay-hints-for-usages-not-always-present)
+* Show variable values in editor ![image](https://github.com/ethanmiller1/PowerShell/assets/40644725/362c836d-9e29-4929-a1d3-7dd04e8e1568)
+
 ### Insert Date String in IntelliJ
 Install the [Current date generator](https://plugins.jetbrains.com/plugin/9722-current-date-generator) plugin, then 
 1. `settings > Other Settings` and insert `'(A) 'yyyy-MM-dd' 'HH:mm' '`
