@@ -8,6 +8,7 @@ choco install -y flashplayeractivex
 choco install -y obsidian
 choco install -y evernote
 choco install -y office365proplus
+choco install -y libreoffice-fresh # Free alternative to Office 365
 choco install -y adobereader
 choco install -y rescuetime
 choco install -y you-need-a-budget
@@ -21,6 +22,8 @@ choco install -y yarn
 choco install -y powertoys
 choco install -y pandoc
 choco install -y zotero
+choco install -y chatgpt
+choco install -y gpt4all
 
 # Games
 choco install -y steam
@@ -51,6 +54,7 @@ choco install -y svg-explorer-extension
 choco install -y click-monitor-ddc
 choco install -y monitorswitcher
 choco install -y gimp
+choco install -y upscayl --ignore-checksums
 
 # Music
 choco install -y itunes
