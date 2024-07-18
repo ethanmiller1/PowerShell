@@ -100,8 +100,8 @@ choco install -y pgadmin4
 # IDE tools
 choco install -y intellijidea-community
 choco install -y intellijidea-ultimate
-choco install -y visualstudio2019community
-choco install -y visualstudio2019-workload-nativedesktop
+choco install -y visualstudio2022community
+choco install -y visualstudio2022-workload-nativedesktop
 choco install -y atom
 choco install -y vscode
 choco install -y notepadplusplus.install
